@@ -1,5 +1,5 @@
 var shark = "";
 for (i = 0; i < 10; i++) {
-	shark +="#"
+	shark +="#";
 		console.log( shark );
 }
